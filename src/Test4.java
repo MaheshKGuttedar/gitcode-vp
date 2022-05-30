@@ -1,7 +1,7 @@
 public class Test4 {
     public static void main(String[] args) {
 
-        int months = 12;
+        int months = 10;
 
         if (months == 1)
             System.out.println("January");
